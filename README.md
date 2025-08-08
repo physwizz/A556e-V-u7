@@ -23,3 +23,10 @@
 
 2. Output files
         - out/s5e8845_user/dist
+
+I used option 2 and got this error
+
+ERROR: no such package 'prebuilts/boot-artifacts/arm64/exynos': BUILD file not found in any of the following directories. Add a BUILD file to a directory to mark it as a package.
+ - /home/physwizz/A556e-V-u7/prebuilts/boot-artifacts/arm64/exynos
+
+
